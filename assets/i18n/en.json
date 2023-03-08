@@ -1,0 +1,30 @@
+{
+  "welcome": "Welcome fellow recycler!",
+  "sub_welcome": "To start, click on the button below and we'll guide you through the entire process step by step.",
+  "start_label": "Start",
+  "notice_text1": "First, make sure your bottle/can contains a barcode.",
+  "notice_text2": "Without the barcode, item won't be accepted since the system won't be able to detect it.",
+  "continue_label": "Continue",
+  "cancel_label": "Cancel",
+  "detect_text1": "Make sure your bottle is empty and closed, then simply put it inside the circle to your left.",
+  "scanning_text1": "Once there, please wait for us to scan the barcode...",
+  "detect_failed_text1": "We couldn't detect anything, are you sure you have something in there? Please restart.",
+  "donate_text1": "Thank you for recycling with us!",
+  "donate_text2": "You got X points!",
+  "donate_text3": "Would you like to donate or retrieve your points?",
+  "donate_label": "Donate",
+  "printCoupon":"Printing coupon, please wait...",
+  "restart":"Restart",
+  "scanmore":"Scan more items",
+  "Retrieve":"Retrieve",
+  "scanqrcode":"Please scan this QR Code using the scanner from the app",
+  "goback":"Go Back",
+  "howwouldlike":"How would you like to retrieve your points?",
+  "useapp":"Use application",
+  "downloadfrom":"You can download the app from",
+  "or":"Or",
+  "printnow":"Print coupon now",
+  "Unfortunately2":"Unfortunately, we don't have it in our database, we can't accept it."
+  
+
+}
